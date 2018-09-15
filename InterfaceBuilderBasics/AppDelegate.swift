@@ -11,6 +11,9 @@ import UIKit
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
+    @IBAction func pressButton(_ sender: Any) {
+    }
+    
     var window: UIWindow?
 
 
